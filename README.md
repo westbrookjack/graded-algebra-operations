@@ -29,10 +29,12 @@ load "VeroneseSubring.m2"
 
 These tools were developed as part of an REU project at the University of Michigan-Ann Arbor on Hilbert-Kunz multiplicities of Segre products under the guidance of Dr. Austyn Simpson in 2024.
 
-##License
+## License
 
 No formal license is currently specified. If you'd like to use or adapt these scripts in your own work, feel free to reach out.
 
-##Contact
+## Contact
 
 Jack Westbrook
+📧 jackwestbrook@gmail.com 
+🔗[https://westbrookjack.github.io](https://westbrookjack.github.io)
