@@ -35,6 +35,6 @@ No formal license is currently specified. If you'd like to use or adapt these sc
 
 ## Contact
 
-Jack Westbrook
-📧 jackwestbrook@gmail.com 
-🔗[https://westbrookjack.github.io](https://westbrookjack.github.io)
+- Jack Westbrook
+- 📧 jackwestbrook@gmail.com 
+- 🔗[https://westbrookjack.github.io](https://westbrookjack.github.io)
