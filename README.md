@@ -24,3 +24,15 @@ To use these scripts, load them into a Macaulay2 session:
 ```macaulay2
 load "SegreProduct.m2"
 load "VeroneseSubring.m2"
+```
+## Background & Motivation
+
+These tools were developed as part of an REU project at the University of Michigan-Ann Arbor on Hilbert-Kunz multiplicities of Segre products under the guidance of Dr. Austyn Simpson in 2024.
+
+##License
+
+No formal license is currently specified. If you'd like to use or adapt these scripts in your own work, feel free to reach out.
+
+##Contact
+
+Jack Westbrook
